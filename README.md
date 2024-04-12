@@ -1,2 +1,2 @@
-Skool is Learning Management System
+Skool is Learning Management Platform
 

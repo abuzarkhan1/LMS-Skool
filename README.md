@@ -1,2 +1,2 @@
-Skool is Learning Management project
+Skool is Learning Management system
 
